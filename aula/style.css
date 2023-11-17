@@ -66,3 +66,10 @@ img {
     color: red;
     margin-left: 0.5rem;
 }
+
+footer {
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 1rem 0;
+}
